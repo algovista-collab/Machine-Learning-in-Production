@@ -19,3 +19,13 @@ Concept Drift is when for example size of the house doesn't change but the price
 
 
 <img width="1011" height="462" alt="image" src="https://github.com/user-attachments/assets/efb75711-0d09-421e-87a2-e6ab88893e56" />
+
+<img width="998" height="321" alt="image" src="https://github.com/user-attachments/assets/93ccffac-a5d9-4535-82bd-89d0b44cecb6" />
+
+<img width="805" height="381" alt="image" src="https://github.com/user-attachments/assets/2f6cf7ca-b845-40c6-999d-681fa9c7fb4a" />
+
+<img width="1102" height="528" alt="image" src="https://github.com/user-attachments/assets/88cbc0e1-f871-43c1-a377-b30875dc098a" />
+
+<img width="1082" height="420" alt="image" src="https://github.com/user-attachments/assets/ecf90eaf-017a-4a3c-acb8-a3995d67ec9a" />
+
+<img width="975" height="498" alt="image" src="https://github.com/user-attachments/assets/d7df89c9-a16d-4441-8f40-5b5fe0d8a3cc" />
